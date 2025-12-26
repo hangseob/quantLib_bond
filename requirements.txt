@@ -1,0 +1,4 @@
+QuantLib==1.32
+financepy>=0.350
+matplotlib>=3.7
+
